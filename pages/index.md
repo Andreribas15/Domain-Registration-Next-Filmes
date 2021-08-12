@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: contact
 title: Welcome
 permalink: /
 section: home
