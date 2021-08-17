@@ -5,11 +5,7 @@ permalink: /
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfAH4iwa8SXoTzUWcyDKU-SROJ4vFT40NFma3pv1P1TIWzug/viewform?embedded=true" width="640" height="1058" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 ---
 
 **Send us a message**
